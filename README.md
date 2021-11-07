@@ -6,9 +6,9 @@
 
 Файлы, выбранные для анализа (human hg19, bipolar neuron)
 
-*[ENCFF068SXT](https://www.encodeproject.org/files/ENCFF068SXT/)
+* [ENCFF068SXT](https://www.encodeproject.org/files/ENCFF068SXT/)
 
-*[ENCFF959PEX](https://www.encodeproject.org/files/ENCFF959PEX/)
+* [ENCFF959PEX](https://www.encodeproject.org/files/ENCFF959PEX/)
 
 
 ## 1
