@@ -3,7 +3,7 @@ Homework 1
 
 ## 1
 
-wget https://www.encodeproject.org/files/ENCFF991FFY/@@download/ENCFF991FFY.bed.gz
+wget https://www.encodeproject.org/files/ENCFF991FFY/@@download/ENCFF991FFY.bed.gz//
 wget https://www.encodeproject.org/files/ENCFF863JPW/@@download/ENCFF863JPW.bed.gz
 
 Скачиваем данные
