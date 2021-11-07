@@ -1,5 +1,15 @@
-# Bioinformatics
-Homework 1
+# hse21_H3F3A_ZDNA_human
+
+Александр Крупецков БПМИ197
+
+Гистоновая метка - H3F3A
+
+Файлы, выбранные для анализа (human hg19, bipolar neuron)
+
+*[ENCFF068SXT](https://www.encodeproject.org/files/ENCFF068SXT/)
+
+*[ENCFF959PEX](https://www.encodeproject.org/files/ENCFF959PEX/)
+
 
 ## 1
 
