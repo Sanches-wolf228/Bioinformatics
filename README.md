@@ -22,3 +22,5 @@ zcat ENCFF959PEX.bed.gz | cut -f1-5 > H3F3A_bipolar_neuron.ENCFF959PEX.hg38.bed
 http://genome.ucsc.edu/cgi-bin/hgLiftOver
 
 На этом сайте приводим bed-файлы к нужной версии генома
+
+Скачиваем файлы\n привет
