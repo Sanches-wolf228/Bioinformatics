@@ -37,3 +37,4 @@ http://genome.ucsc.edu/cgi-bin/hgLiftOver
 
 ![image](https://user-images.githubusercontent.com/71072356/140648926-a83b718a-bcd6-449b-b632-421ab7855c36.png)
 
+Мы выбрали параметры фильтрации - 4000 для ENCFF068SXT и 1500 для ENCFF959PEX
